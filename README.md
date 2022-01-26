@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khobeeling
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 📫 How to reach me ...khobeeling@gmail.com
 
 <!---
